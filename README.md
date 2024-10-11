@@ -9,6 +9,6 @@
 </h2>
 <style>
   .class {
-    background-color: red
+    color: red
   }
 </style>
