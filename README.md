@@ -7,8 +7,3 @@
     pdm run isort . && pdm run black .
   </ul>
 </h2>
-<style>
-  .class {
-    color: red
-  }
-</style>
