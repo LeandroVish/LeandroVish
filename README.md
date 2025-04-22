@@ -8,13 +8,20 @@
   </a>
 </div>
   
-<a href="https://github.com/LeandroVish">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroVish&layout=donut&bg_color=141424&title_color=e83d84&text_color=8ef5fa&icon_color=2596be)](https://github.com/LeandroVish/LeandroVish"/>
-</a>
-<a href="https://github.com/LeandroVish">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LeandroVish&bg_color=30,FF00F6,904e95&title_color=000&text_color=000" />
-</a>
+#
 
+<div style="text-align: center;" align="center">
+  <h3>* GitHub Stats *</h3>
+  <br>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LeandroVish&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
+
+  <a href="https://github.com/mari4souza/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LeandroVish&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
+  </a>
+</div>
+
+
+#
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LeandroVish&bg_color=141424&color=FF00F6&line=472258&point=504e4e&area=true&hide_border=true)](https://github.com/LeandroVish/LeandroVish)
